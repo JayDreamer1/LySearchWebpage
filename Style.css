@@ -1,0 +1,14 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(rgba(20, 14, 20, 0.5),rgb(23, 13, 23,0.5)),url(backLogin.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.icon{
+    background: white;
+    border: 20px solid rgb(252, 252, 252);
+    box-shadow: turquoise;
+}
+
